@@ -1,0 +1,64 @@
+body {
+    color: #a6a8a5;
+    font-size: 19px;
+}
+
+#computeStep {
+    background-color: #156d04;
+    color: white;
+    border-radius: 7px;
+    border-color: black;
+    padding: 10px;
+    font-size: 14pt;
+    font-weight: bold;
+}
+
+#userInput {
+    padding: 7px;
+    width: 30%;
+    text-align: center;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.container {
+    width: 100%;
+}
+
+#error {
+    color: red;
+}
+
+#result {
+    color: yellow;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: sans-serif;
+    background-color: black;
+    border-style: none;
+    border-color: black;
+    border: hidden;
+}
+
+h2 {
+    color: #6c6d6b;
+    margin-bottom: 40px;
+    text-align: center;
+    font-size: 31px;
+}
+
+#box {
+    border-color: lightgrey;
+    border-style: groove;
+    border-width: 1px;
+    align-content: center;
+    text-align: center;
+    align-content: center;
+    width: 70%;
+    margin: auto;
+    margin-top: 50px;
+}
+
+.small {
+    margin: 25px;
+}
